@@ -1,9 +1,8 @@
-/*
-Pair Programming - Leccion 13
-Lourdes Ochoa, Silvia Gordón y Sonia Ruiz.
-Hoy praticaremos las CTE's.
+-- Ejercicios Pair programming Sprint 2
+-- Lección 13: CTEs
+-- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
 
-1. Extraer en una CTE todos los nombres de las compañias y los id de los clientes.
+/* 1. Extraer en una CTE todos los nombres de las compañias y los id de los clientes.
 Para empezar nos han mandado hacer una CTE muy sencilla el id del cliente y el nombre de la compañia de la tabla Customers.
 Los resultados de esta query tendrán las columnas CustID y CompanyName.*/
 

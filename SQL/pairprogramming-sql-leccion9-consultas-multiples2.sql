@@ -1,4 +1,9 @@
-/*Pair programming Consultas en múltiples tablas 2*/
+-- Ejercicios Pair programming Sprint 2
+-- Lección 9: Consultas múltiples 2
+-- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
+
+
+
 /*En esta lección de pair programming vamos a continuar trabajando sobre la base de datos Northwind.
 El día de hoy vamos a realizar ejercicios en los que practicaremos las queries SQL a múltiples tablas
 usando los operadores LEFT JOIN, RIGHT JOIN, SELF JOIN. De esta manera podremos combinar los datos de

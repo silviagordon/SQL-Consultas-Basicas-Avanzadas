@@ -1,4 +1,9 @@
-/* Pair programming Consultas en múltiples tablas 3*/
+-- Ejercicios Pair programming Sprint 2
+-- Lección 10: Consultas múltiples 3
+-- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
+
+
+
 use `northwind`;
 
 SELECT  'Hola!'  AS tipo_nombre

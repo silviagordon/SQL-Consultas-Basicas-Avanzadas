@@ -1,4 +1,8 @@
-/*Pair programming Consultas en múltiples tablas 4*/
+-- Ejercicios Pair programming Sprint 2
+-- Lección 11: Consultas múltiples 4
+-- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
+
+
 /*Es el turno de las subqueries. En este ejercicios os planteamos una serie de queries que nos permitirán
 conocer información de la base de datos, que tendréis que solucionar usando subqueries.*/
 USE northwind;

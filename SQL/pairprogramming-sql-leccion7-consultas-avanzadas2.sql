@@ -1,4 +1,7 @@
--- Pair programming Consultas avanzadas 2
+-- Ejercicios Pair programming Sprint 2
+-- Lección 7: Consultas avanzadas 2
+-- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
+
 -- Ejercicios
 
 USE northwind;
