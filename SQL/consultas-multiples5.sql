@@ -1,7 +1,3 @@
--- Ejercicios Pair programming Sprint 2
--- Lección 12: Consultas múltiples 5
--- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
-
 
 use `northwind`;
 
