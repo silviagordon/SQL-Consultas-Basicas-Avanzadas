@@ -1,24 +1,12 @@
-# DA-promoc-modulo1-sprint2-lourdes-silvia-sonia
+🔑 Este repositório contiene un proyecto académido del BootCamp Data Analyst de Adalab. El proyecto tiene como objetivo la realización de diferentes consultas básicas y avanzadas en SQL hacia diferentes tablas de una base de datos encontrada en Workbench.
 
-EJERCICIOS REALIZADOS EN PAIR PROGRAMING
-Por Lourdes Ochoa, Silvia Gordón y Sonia Ruiz
-
-PYTHON:
-X - Leccion8 - Funciones Intro
-X - Leccion9 - Funciones Argumentos
-X - Leccion10 - Clases
-X - Leccion11 - Gestión de Ficheros
-X - Leccion12 - Expresiones Regulares
-X - Leccion13 - Python + SQL1
-X - Leccion14 - Python + SQL2
-
-
+📍Los archivos está organizados como:
 
 SQL:
-X - Leccion7 - Consultas avanzadas 2
-X - Leccion8 - Consultas en múltiples tablas 1
-X - Leccion9 - Consultas en múltiples tablas 2
-X - Leccion10 - Consultas en múltiples tablas 3
-X - Leccion11 - Consultas en múltiples tablas 4
-X - Leccion12 - Consultas en múltiples tablas 5
-X - Leccion13 - CTEs
+X - Consultas avanzadas 
+X - Consultas en múltiples tablas 1
+X - Consultas en múltiples tablas 2
+X - Consultas en múltiples tablas 3
+X - Consultas en múltiples tablas 4
+X - Consultas en múltiples tablas 5
+X - CTEs
