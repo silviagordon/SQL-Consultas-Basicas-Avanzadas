@@ -1,7 +1,3 @@
--- Ejercicios Pair programming Sprint 2
--- Lección 8: Consultas múltiples 1
--- Silvia Gordón, Lourdes Ochoa, Sonia Ruíz
-
 
 USE `northwind`;
 /* 1.- Pedidos por empresa en UK:
